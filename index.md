@@ -12,7 +12,7 @@ title: Luke's CV
 
 ### Interested in
 
-Opportunities at the intersection of cpmputing, biology and medicine
+Opportunities at the intersection of computing, biology and medicine
 
 
 ## Education
@@ -35,14 +35,14 @@ __B.SC., Technical Univsersity Munich__
 __Intern, Department of Biomedical Engeneering and Physics, Prof. Edwin v.d. Pol__, Amsterdam Universitair Medische Centra
 
 - Development of a unsupervsided clustering pipeline to detect extracellular vesicle populations in flow cytometry data
-- meow meow
+- ...
 
 `2020 - 2021`
 __Intern, Roche Innovation Center Munich__, Penzberg, DE
 
 - Department of Cell Biology and Immunology, Early Research & Development
 - Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
-- meow meow
+- ...
 
 
 

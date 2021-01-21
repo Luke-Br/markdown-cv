@@ -1,53 +1,48 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luke's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gabriel Braun
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gabriel.l.braun@outlook.com">gabriel.l.braun@outlook.com</a>
+| <a href="https://www.linkedin.com/in/gabriel-braun-84b744171/">LinkedIn</a>
 </div>
 
 
-## Currently
+### Interested in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Opportunities at the intersection of cpmputing, biology and medicine
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - 2021`
+__M.SC., Vrije Universiteit Amsterdam__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Biomolecular Sciences, Bioinformatics Track
 
-- Sizar
+`2014 - 2018`
+__B.SC., Technical Univsersity Munich__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Sport Science
 
 
 
-## Awards
+## Professional Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`2020 - 2021`
+__Intern, Department of Biomedical Engeneering and Physics, Prof. Edwin v.d. Pol__, Amsterdam Universitair Medische Centra
 
-Associate, *French Academy of Science*, Paris, France
+- Development of a unsupervsided clustering pipeline to detect extracellular vesicle populations in flow cytometry data
+- meow meow
+
+`2020 - 2021`
+__Intern, Roche Innovation Center Munich__, Penzberg, DE
+
+- Department of Cell Biology and Immunology, Early Research & Development
+- Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
+- meow meow
 
 
 

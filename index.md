@@ -37,7 +37,7 @@ __Intern, Department of Biomedical Engeneering and Physics, Prof. Edwin v.d. Pol
 - Development of a unsupervsided clustering pipeline to detect extracellular vesicle populations in flow cytometry data
 - ...
 
-`2020 - 2021`
+`2020`
 __Intern, Roche Innovation Center Munich__, Penzberg, DE
 
 - Department of Cell Biology and Immunology, Early Research & Development

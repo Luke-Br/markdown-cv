@@ -45,13 +45,22 @@ __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. P
 - ▪ Clustering
 - ▪ Dimensionality reduction
 
-`2020`
+`2020 - Present`
 __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
 
 - Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
 - ▪ Flow cytometry
 - ▪ Cell culture
-- ▪ 3D co-culture cell models (spheroids, organoids) 
+- ▪ 3D co-culture cell models (spheroids, organoids)
+- ▪ Confocal microscopy
+
+`2017 - 2018`
+__Experimental bachelor thesis, Technical Univsersity Munich__
+
+- Changes in muscle fiber composition in response to HDAC4 knockout within mice
+- ▪ Cryo-sectioning
+- ▪ Histochemical staining
+- ▪ Digital morphometry
 
 
 

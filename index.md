@@ -20,12 +20,12 @@ Opportunities at the intersection of computing, biology and medicine
 `2018 - Present`
 __M.SC., Vrije Universiteit Amsterdam__
 
-- Biomolecular Sciences, Bioinformatics Track
+- Biomolecular Sciences - Molecular Bioinformatics track
 
 `2014 - 2018`
-__B.SC. Sport Science, Technical Univsersity Munich__
+__B.SC., Technical Univsersity Munich__
 
-- ▪ Focus on exercise biology (metabolism, nutritiion, muscle function)
+- Sport Science, emphasis on exercise biology
 
 `2018`
 __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersity Munich__
@@ -58,7 +58,7 @@ __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunol
 ## Computing skills
 
 - Python - jupyter, scikit-learn, numpy, matplotlib, pandas;
-- Linux - git, bash, unix filesystem, ssh
+- Linux - git, bash, unix filesystem, ssh 
 
 
 ## Communication skills

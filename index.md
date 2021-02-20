@@ -57,19 +57,12 @@ __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunol
 
 ## Computing skills
 
-- Python - jupyter,scikit-learn, numpy, matplotlib, pandas;
-- Linux - Git, bash, unix filesystem, ssh
+- Python - jupyter, scikit-learn, numpy, matplotlib, pandas;
+- Linux - git, bash, unix filesystem, ssh
 
 
-## Occupation
+## Communication skills
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Native-level command of English and German (both spoken and written)
 
 

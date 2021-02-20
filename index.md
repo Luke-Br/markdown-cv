@@ -17,15 +17,15 @@ Opportunities at the intersection of computing, biology and medicine
 
 ## Education
 
-`2018 - 2021`
+`2018 - Present`
 __M.SC., Vrije Universiteit Amsterdam__
 
 - Biomolecular Sciences, Bioinformatics Track
 
 `2014 - 2018`
-__B.SC., Technical Univsersity Munich__
+__B.SC. Sport Science, Technical Univsersity Munich__
 
-- Sport Science
+- ▪ Focus on exercise biology (metabolism, nutritiion, muscle function)
 
 
 
@@ -34,7 +34,7 @@ __B.SC., Technical Univsersity Munich__
 `2020 - 2021`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
-- Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data \n
+- Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
 - Data engineering
 - Clustering
 - Dimensionality reduction

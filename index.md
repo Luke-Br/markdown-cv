@@ -57,7 +57,7 @@ __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunol
 
 ## Computing skills
 
-- Python - jupyter, scikit-learn, numpy, matplotlib, pandas;
+- Python - jupyter, scikit-learn, numpy, matplotlib, pandas
 - Linux - git, bash, unix filesystem, ssh 
 
 

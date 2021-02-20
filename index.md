@@ -78,4 +78,6 @@ __Experimental bachelor thesis, Technical Univsersity Munich__
 
 ## Personal Interests
 
-- 
+- Philosophy of science, AI(-ethics), complex systems
+- Downhill mountainbiking, roadbiking, snowboarding, beach volleyball
+- Classic science fiction books, walks, flannels

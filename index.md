@@ -37,18 +37,18 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersi
 
 ## Professional Experience
 
-`2020 - 2021`
+`2020 - Present`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
-- Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
+- Thesis: Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
 - ▪ Data engineering
 - ▪ Clustering
 - ▪ Dimensionality reduction
 
-`2020 - Present`
+`2020`
 __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
 
-- Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
+- Thesis: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
 - ▪ Flow cytometry
 - ▪ Cell culture
 - ▪ 3D co-culture cell models (spheroids, organoids)

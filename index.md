@@ -34,8 +34,10 @@ __B.SC., Technical Univsersity Munich__
 `2020 - 2021`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
-- Development of a unsupervsided clustering pipeline to detect extracellular vesicle populations in flow cytometry data
-- ...
+- Development of a unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
+  - Data engineering
+  - Clustering
+  - Dimensionality reduction
 
 `2020`
 __Intern, Roche Innovation Center Munich__, Penzberg, DE

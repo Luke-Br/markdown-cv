@@ -43,7 +43,6 @@ __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. P
 __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
 
 - Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
-
 - ▪ Flow cytometry
 - ▪ Cell culture
 - ▪ 3D co-culture cell models (spheroids, organoids) 
@@ -80,11 +79,5 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 

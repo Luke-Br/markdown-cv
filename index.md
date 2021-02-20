@@ -27,7 +27,7 @@ __B.SC., Technical Univsersity Munich__
 
 - Sport Science, emphasis on exercise biology
 
-`2018`
+`2017`
 __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersity Munich__
 
 - ▪ Complex systems

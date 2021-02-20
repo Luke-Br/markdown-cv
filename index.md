@@ -32,8 +32,7 @@ __B.SC., Technical Univsersity Munich__
 ## Professional Experience
 
 `2020 - 2021`
-Intern, Department of Biomedical Engeneering and Physics,
-Prof. Edwin v.d. Pol, Amsterdam UMC
+__Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
 - Development of a unsupervsided clustering pipeline to detect extracellular vesicle populations in flow cytometry data
 - ...

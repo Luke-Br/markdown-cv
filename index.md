@@ -6,7 +6,7 @@ title: Luke's CV
 
 <div id="webaddress">
 <a>+49 15170121565</a>
-<a href="gabriel.l.braun@outlook.com">gabriel.l.braun@outlook.com</a>
+| <a href="gabriel.l.braun@outlook.com">gabriel.l.braun@outlook.com</a>
 | <a href="https://www.linkedin.com/in/gabriel-braun-84b744171/">LinkedIn</a>
 </div>
 

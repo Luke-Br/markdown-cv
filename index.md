@@ -4,6 +4,7 @@ title: Luke's CV
 ---
 # Gabriel Braun
 
++49 15170121565
 <div id="webaddress">
 <a href="gabriel.l.braun@outlook.com">gabriel.l.braun@outlook.com</a>
 | <a href="https://www.linkedin.com/in/gabriel-braun-84b744171/">LinkedIn</a>
@@ -75,3 +76,4 @@ __Experimental bachelor thesis, Technical Univsersity Munich__
 - Native-level command of English and German (both spoken and written)
 
 
+## Personal

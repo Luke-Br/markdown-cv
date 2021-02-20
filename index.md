@@ -36,9 +36,9 @@ __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. P
 
 - Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
 - 
-- - Data engineering
-- - Clustering
-- - Dimensionality reduction
+- > Data engineering
+- > Clustering
+- > Dimensionality reduction
 
 `2020`
 __Intern, Roche Innovation Center Munich__, Penzberg, DE

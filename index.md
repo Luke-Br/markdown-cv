@@ -27,6 +27,12 @@ __B.SC. Sport Science, Technical Univsersity Munich__
 
 - ▪ Focus on exercise biology (metabolism, nutritiion, muscle function)
 
+`2018`
+__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersity Munich__
+
+- ▪ Complex systems
+- ▪ Self-organisation processes in nature (abiogenesis, evolution, climate)
+
 
 
 ## Professional Experience
@@ -49,24 +55,10 @@ __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunol
 
 
 
-## Publications
+## Computing skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Python - jupyter,scikit-learn, numpy, matplotlib, pandas;
+Linux - Git, bash, unix filesystem, ssh
 
 
 ## Occupation

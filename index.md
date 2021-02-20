@@ -31,7 +31,7 @@ __B.SC., Technical Univsersity Munich__
 `2017`
 __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersity Munich__
 
-- • Complex systems
+- ▪ Complex systems
 - • Self-organisation processes in nature (abiogenesis, evolution, climate)
 
 

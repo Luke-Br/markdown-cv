@@ -15,8 +15,6 @@ title: Luke's CV
 
 Opportunities at the intersection of computing, biology and medicine
 
-### 
-
 ## Education
 
 `2018 - Present`

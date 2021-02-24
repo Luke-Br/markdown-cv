@@ -15,6 +15,7 @@ title: Luke's CV
 
 Opportunities at the intersection of computing, biology and medicine
 
+### 
 
 ## Education
 
@@ -24,12 +25,12 @@ __M.SC., Vrije Universiteit Amsterdam__
 - Biomolecular Sciences - Molecular Bioinformatics track
 
 `2014 - 2018`
-__B.SC., Technical Univsersity Munich__
+__B.SC., Technical University Munich__
 
 - Sport Science, emphasis on exercise biology
 
 `2017`
-__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersity Munich__
+__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__
 
 - ▪ Complex systems
 - ▪ Self-organisation processes in nature (abiogenesis, evolution, climate)
@@ -41,7 +42,7 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Univsersi
 `2020 - Present`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
-- Thesis: Development of an unsupervsided machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
+- Thesis: Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
 - ▪ Data engineering
 - ▪ Clustering
 - ▪ Dimensionality reduction

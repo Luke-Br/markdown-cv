@@ -37,7 +37,7 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 
 ## Professional Experience
 
-`2020 - Present`
+`2020 - 04/2021`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
 - Thesis: Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data

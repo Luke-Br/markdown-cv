@@ -17,8 +17,7 @@ Opportunities at the intersection of computing, biology and medicine
 
 ## Education
 
-`2018 - Present`
-`(expected 01.05.2021)`
+`2018 - expected 05/2021`
 __M.SC., Vrije Universiteit Amsterdam__
 
 - Biomolecular Sciences - Molecular Bioinformatics track

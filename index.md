@@ -20,9 +20,9 @@ Opportunities at the intersection of computing, biology and medicine
 `2021 - present`
 __PhD Student, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger, University of Vienna
 
-- Bio-/Cheminformatics
-- LA-ICP-TOFMS
-- Image analysis
+- ▪ Bio-/Cheminformatics
+- ▪ LA-ICP-TOFMS
+- ▪ Image analysis
 
 `2018 - 05/2021`
 __M.SC., Vrije Universiteit Amsterdam__

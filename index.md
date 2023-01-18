@@ -5,7 +5,7 @@ title: Luke's CV
 # Gabriel Braun
 
 <div id="webaddress">
-<a href="gabriel.l.braun@outlook.com">gabriel.l.braun@outlook.com</a>
+<a href="gabriel.braun@univie.ac.at">gabriel.braun@univie.ac.at</a>
 | <a>+49 15170121565</a>
 | <a href="https://www.linkedin.com/in/gabriel-braun-84b744171/">LinkedIn</a>
 </div>
@@ -16,6 +16,13 @@ title: Luke's CV
 Opportunities at the intersection of computing, biology and medicine
 
 ## Education
+
+`2021 - present`
+__PhD Student, Institute of Analytical Chemistry, Prof. Dr. Gunda Koellensperger, University of Vienna
+
+- Bio-/Cheminformatics
+- LA-ICP-TOFMS
+- Image analysis
 
 `2018 - 05/2021`
 __M.SC., Vrije Universiteit Amsterdam__

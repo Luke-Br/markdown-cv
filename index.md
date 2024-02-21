@@ -42,7 +42,7 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 
 
 
-## Noteable Experience
+## Notable Experience
 
 `2020 - 04/2021`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC

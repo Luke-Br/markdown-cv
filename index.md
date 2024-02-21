@@ -22,7 +22,7 @@ __PhD Student, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperg
 
 - ▪ Bio-/Cheminformatics
 - ▪ LA-ICP-TOFMS
-- ▪ Image analysis
+- ▪ (Multiplexed-) Image analysis
 
 `2018 - 05/2021`
 __M.SC., Vrije Universiteit Amsterdam__
@@ -42,7 +42,7 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 
 
 
-## Professional Experience
+## Noteable Experience
 
 `2020 - 04/2021`
 __Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
@@ -59,7 +59,6 @@ __Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunol
 - ▪ Flow cytometry
 - ▪ Cell culture
 - ▪ 3D co-culture cell models (spheroids, organoids)
-- ▪ Confocal microscopy
 
 `2017 - 2018`
 __Experimental bachelor thesis, Technical Univsersity Munich__
@@ -73,17 +72,17 @@ __Experimental bachelor thesis, Technical Univsersity Munich__
 
 ## Computing skills
 
-- Python - jupyter, scikit-learn, numpy, matplotlib, pandas
-- Linux - git, bash, unix filesystem, ssh 
+- Python - jupyter, scikit-learn, numpy, pandas, pytorch basics
+- Other - docker, git, unix 
 
 
 ## Communication skills
 
-- Native-level command of English and German (both spoken and written)
+- Native-level command of English and German (spoken and written)
 
 
 ## Personal Interests
 
-- Philosophy of science, AI(-ethics), complex systems
+- Cognitive science, Philosophy of science, AI(-ethics), complex systems
 - Downhill mountainbiking, roadbiking, snowboarding, beach volleyball
-- Classic science fiction books, walks, flannels
+- Classic science fiction books, walks

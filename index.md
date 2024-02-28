@@ -22,15 +22,16 @@ __PhD Student, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperg
 
 - ▪ Bio-/Cheminformatics
 - ▪ LA-ICP-TOFMS
-- ▪ (Multiplexed-) Image analysis
+- ▪ Image analysis
+- ▪ Image registration
 
 `2018 - 05/2021`
-__M.SC., Vrije Universiteit Amsterdam__
+__M.Sc., Vrije Universiteit Amsterdam__
 
-- Biomolecular Sciences - Molecular Bioinformatics track
+- Biomolecular Sciences - Track: Molecular Bioinformatics
 
 `2014 - 2018`
-__B.SC., Technical University Munich__
+__B.Sc., Technical University Munich__
 
 - Sport Science, emphasis on exercise biology
 
@@ -45,25 +46,25 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 ## Notable Experience
 
 `2020 - 04/2021`
-__Intern, Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
+__Thesis II (M.Sc.), Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
 
-- Thesis: Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
+- Topic: Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data
 - ▪ Data engineering
 - ▪ Clustering
 - ▪ Dimensionality reduction
 
 `2020`
-__Intern, Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
+__Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
 
-- Thesis: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
+- Topic: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
 - ▪ Flow cytometry
 - ▪ Cell culture
 - ▪ 3D co-culture cell models (spheroids, organoids)
 
 `2017 - 2018`
-__Experimental bachelor thesis, Technical Univsersity Munich__
+__Thesis (B.Sc.), Technical Univsersity Munich__
 
-- Changes in muscle fiber composition in response to HDAC4 knockout within mice
+- Topic: Changes in muscle fiber composition in response to HDAC4 knockout within mice
 - ▪ Cryo-sectioning
 - ▪ Histochemical staining
 - ▪ Digital morphometry
@@ -72,8 +73,8 @@ __Experimental bachelor thesis, Technical Univsersity Munich__
 
 ## Computing skills
 
-- Python - jupyter, scikit-learn, numpy, pandas, pytorch basics
-- Other - docker, git, unix 
+- Python - jupyter notebooks, scikit-learn, numpy, pandas, pytorch basics
+- Other  - docker, git, unix 
 
 
 ## Communication skills

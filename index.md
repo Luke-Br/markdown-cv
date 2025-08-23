@@ -17,18 +17,22 @@ Opportunities at the intersection of computing, biology and medicine
 
 ## Education
 
-`2021 - present`
+`2021 - present (late 2025)`
 __PhD Student, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger, University of Vienna
 
-- ▪ Bio-/Cheminformatics
+- ▪ Bioinformatics
+- ▪ Spatial omics
+- ▪ Multiplexed image analysis
 - ▪ LA-ICP-TOFMS
-- ▪ Image analysis
-- ▪ Image registration
 
-`2018 - 05/2021`
-__M.Sc., Vrije Universiteit Amsterdam__
+`2018 - 2021`
+__M.Sc., Vrije Universiteit Amsterdam__ - Biomolecular Sciences - Track: Molecular Bioinformatics  
+- __Thesis I:__ Roche Innovation Center Munich, Department of Cell Biology and Immunology, Penzberg, DE
 
-- Biomolecular Sciences - Track: Molecular Bioinformatics
+- Topic: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
+- ▪ Flow cytometry
+- ▪ Cell culture
+- ▪ 3D co-culture cell models (spheroids, organoids)
 
 `2014 - 2018`
 __B.Sc., Technical University Munich__

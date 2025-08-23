@@ -19,7 +19,7 @@ Opportunities at the intersection of computing, biology and medicine
 
 `2021 - present (late 2025)`
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger 
-
+  
 - ▪ Bioinformatics
 - ▪ Spatial omics
 - ▪ Multiplexed image analysis
@@ -28,9 +28,9 @@ __PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. 
 `2018 - 2021`
 __M.Sc., Vrije Universiteit Amsterdam__ - Biomolecular Sciences - Track: Molecular Bioinformatics  
   
-__Thesis II:__ Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data  
+Thesis I - Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease  
   
-__Thesis I:__ Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
+Thesis II - Development of an unsupervised machine learning pipeline to detect extracellular vesicle populations in flow cytometry data  
 
 `2014 - 2018`
 __B.Sc., Technical University Munich__ - Sport Science (exercise biology focus)  
@@ -43,28 +43,28 @@ __Thesis:__ Changes in muscle fiber composition in response to HDAC4 knockout wi
 
 `11/2020 - 04/2021`
 __Internship - Thesis II (M.Sc.), Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
-
+  
 - ▪ Data engineering
 - ▪ Clustering
 - ▪ Dimensionality reduction
 
 `02/2020 - 09/2020`
 __Internshipp - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
-
+  
 - ▪ Flow cytometry
 - ▪ Cell culture
 - ▪ 3D co-culture cell models (spheroids, organoids)
 
 `11/2017 - 04/2018`
 __Laboratory Work - Thesis (B.Sc.), Technical Univsersity Munich, Department of Exercise Biology__
-
+  
 - ▪ Cryo-sectioning
 - ▪ Histochemical staining
 - ▪ Digital cell morphometry
 
 `2017`
 __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__
-
+  
 - ▪ Complex systems
 - ▪ Self-organisation processes in nature (abiogenesis, evolution, climate)
 
@@ -72,9 +72,9 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 
 ## Computing skills
 
-- Python - jupyter notebooks, scikit-learn, numpy, pandas, plotly, matplotlib/seaborn, pytorch (basics)
-- Image software - Fiji, Napari, Cellprofiler, Cellpose
-- Other  - docker, git, unix 
+- Python            - jupyter notebooks, scikit-learn, numpy, pandas, plotly, matplotlib/seaborn, pytorch (basics)
+- Imaging software  - Fiji, Napari, Cellprofiler, Cellpose
+- Other             - docker, git, unix 
 
 
 ## Communication skills

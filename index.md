@@ -27,7 +27,7 @@ __PhD Student, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperg
 
 `2018 - 2021`
 __M.Sc., Vrije Universiteit Amsterdam__ - Biomolecular Sciences - Track: Molecular Bioinformatics  
-- __Thesis I:__ Roche Innovation Center Munich, Department of Cell Biology and Immunology, Penzberg, DE
+__Thesis I:__ Roche Innovation Center Munich, Department of Cell Biology and Immunology, Penzberg, DE
 
 - Topic: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease
 - ▪ Flow cytometry

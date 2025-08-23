@@ -18,7 +18,7 @@ Opportunities at the intersection of computing, biology and medicine
 ## Education
 
 `2021 - present (late 2025)`
-__PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger 
+__PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger, Vienna, AT 
   
 - ▪ Bioinformatics
 - ▪ Spatial omics
@@ -42,7 +42,7 @@ Thesis - Changes in muscle fiber composition in response to HDAC4 knockout withi
 ## Notable Experience
 
 `11/2020 - 04/2021`
-__Internship - Thesis II (M.Sc.), Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Amsterdam UMC
+__Internship - Thesis II (M.Sc.), Amsterdam UMC, Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Vienna, AT
   
 - ▪ Data engineering
 - ▪ Clustering
@@ -56,13 +56,13 @@ __Internship - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of C
 - ▪ 3D co-culture cell models (spheroids, organoids)
 
 `11/2017 - 04/2018`
-__Laboratory Work - Thesis (B.Sc.), Technical Univsersity Munich, Department of Exercise Biology__
+__Laboratory Work - Thesis (B.Sc.), Technical Univsersity Munich, Department of Exercise Biology__, Prof. Dr. Henning Wackerhage, Munich, DE
   
 - ▪ Cryo-sectioning
 - ▪ Histochemical staining
 - ▪ Digital cell morphometry
 
-`2017`
+`03/2017 - 08/2017`
 __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__, Prof. Dr. Harald Lesch
   
 - ▪ Complex systems

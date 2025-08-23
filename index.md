@@ -49,7 +49,7 @@ __Internship - Thesis II (M.Sc.), Department of Biomedical Engeneering and Physi
 - ▪ Dimensionality reduction
 
 `02/2020 - 09/2020`
-__Internshipp - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
+__Internship - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
   
 - ▪ Flow cytometry
 - ▪ Cell culture

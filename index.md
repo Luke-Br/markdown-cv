@@ -42,14 +42,14 @@ Thesis - Changes in muscle fiber composition in response to HDAC4 knockout withi
 ## Notable Experience
 
 `11/2020 - 04/2021`
-__Internship - Thesis II (M.Sc.), Department of Biomedical Engeneering and Physics__, Prof. Edwin v.d. Pol, Amsterdam UMC
+__Internship - Thesis II (M.Sc.), Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Amsterdam UMC
   
 - ▪ Data engineering
 - ▪ Clustering
 - ▪ Dimensionality reduction
 
 `02/2020 - 09/2020`
-__Internship - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Penzberg, DE
+__Internship - Thesis I (M.Sc.), Roche Innovation Center Munich, Department of Cell Biology and Immunology__, Dr. Julia Schnappinger, Penzberg, DE
   
 - ▪ Flow cytometry
 - ▪ Cell culture
@@ -63,7 +63,7 @@ __Laboratory Work - Thesis (B.Sc.), Technical Univsersity Munich, Department of 
 - ▪ Digital cell morphometry
 
 `2017`
-__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__
+__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__, Prof. Dr. Harald Lesch
   
 - ▪ Complex systems
 - ▪ Self-organisation processes in nature (abiogenesis, evolution, climate)
@@ -72,9 +72,9 @@ __Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians Universit
 
 ## Computing skills
 
-- Python            - jupyter notebooks, scikit-learn, numpy, pandas, plotly, matplotlib/seaborn, pytorch (basics)
-- Imaging software  - Fiji, Napari, Cellprofiler, Cellpose
-- Other             - docker, git, unix 
+- Python - jupyter notebooks, scikit-learn, numpy, pandas, plotly, matplotlib/seaborn, pytorch (basics)
+- Imaging software - Fiji, Napari, Cellprofiler, Cellpose
+- Other - docker, git, unix 
 
 
 ## Communication skills

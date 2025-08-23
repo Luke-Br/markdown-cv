@@ -42,7 +42,7 @@ Thesis - Changes in muscle fiber composition in response to HDAC4 knockout withi
 ## Notable Experience
 
 `11/2020 - 04/2021`
-__Internship - Thesis II (M.Sc.), Amsterdam UMC, Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Vienna, AT
+__Internship - Thesis II (M.Sc.), Amsterdam UMC, Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Amsterdam, NL
   
 - ▪ Data engineering
 - ▪ Clustering
@@ -63,7 +63,7 @@ __Laboratory Work - Thesis (B.Sc.), Technical Univsersity Munich, Department of 
 - ▪ Digital cell morphometry
 
 `03/2017 - 08/2017`
-__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__, Prof. Dr. Harald Lesch
+__Extracuricular Course: Philosophy for Physicists, Ludwig Maximilians University Munich__, Prof. Dr. Harald Lesch, Munich, DE
   
 - ▪ Complex systems
 - ▪ Self-organisation processes in nature (abiogenesis, evolution, climate)

@@ -35,7 +35,7 @@ Thesis II - Development of an unsupervised machine learning pipeline to detect e
 `2014 - 2018`
 __B.Sc., Technical University Munich__ - Sport Science (exercise biology focus)  
   
-__Thesis:__ Changes in muscle fiber composition in response to HDAC4 knockout within mice
+Thesis - Changes in muscle fiber composition in response to HDAC4 knockout within mice
 
 
 

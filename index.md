@@ -42,7 +42,7 @@ Thesis - Changes in muscle fiber composition in response to HDAC4 knockout withi
 ## Notable Experience
 
 `11/2020 - 04/2021`
-__Internship - Thesis II (M.Sc.), Amsterdam UMC, Department of Biomedical Engeneering and Physics__, Prof. Dr.Edwin v.d. Pol, Amsterdam, NL
+__Internship - Thesis II (M.Sc.), Amsterdam UMC, Department of Biomedical Engeneering and Physics__, Prof. Dr. Edwin v.d. Pol, Amsterdam, NL
   
 - ▪ Data engineering
 - ▪ Clustering

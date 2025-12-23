@@ -17,7 +17,7 @@ Opportunities at the intersection of computing, biology and medicine
 
 ## Education
 
-`2021 - present (late 2025)`
+`2021 - present (spring 2026)`
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger, Vienna, AT 
   
 - ▪ Bioinformatics

@@ -64,7 +64,7 @@ table {
 
 @page {
 	size: A4;
-	margin: 1.5cm;
+	margin: 1cm;
 }
 
 /* -------------------------------------------------- */
@@ -92,7 +92,7 @@ body {
 
 p {
 	position: relative;
-	padding-left: 12em;
+	padding-left: 20em;
 	margin-bottom: 0.4em;
 }
 
@@ -107,7 +107,7 @@ p code {
 	position: absolute;
 	left: 0;
 	top: 0;
-	width: 11em;
+	width: 20em;
 	text-align: left;
 }
 

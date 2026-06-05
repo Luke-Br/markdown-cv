@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -23,25 +23,34 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
+
 ol, ul {
 	list-style: none;
 }
+
 blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -49,85 +58,96 @@ table {
 
 /* end of reset */
 
+/* -------------------------------------------------- */
+/* PDF / Print settings */
+/* -------------------------------------------------- */
 
+@page {
+	size: A4;
+	margin: 1.5cm;
+}
+
+/* -------------------------------------------------- */
+/* Base typography */
+/* -------------------------------------------------- */
 
 body {
 	font: normal normal 400;
 	font-size: 10pt;
-	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	line-height: 1.45;
+	font-family: Verdana, sans-serif;
+	max-width: 900px;
+	margin: 0 auto;
 }
+
+/* -------------------------------------------------- */
+/* Main content layout */
+/* -------------------------------------------------- */
+
+/*
+	Date column = 8em
+	Gap         = 1em
+	Content     = remaining width
+*/
 
 p {
 	position: relative;
-	left: 28%;
-	margin-bottom: 0.2em;
-	margin-right: 0;
-	width: 70%;
+	padding-left: 9em;
+	margin-bottom: 0.4em;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
-	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	font-size: 85%;
+	font-family: Menlo, monospace, sans-serif;
+	color: #777;
 }
 
 p code {
 	position: absolute;
-	left: -12%;
+	left: 0;
+	top: 0;
+	width: 8em;
+	text-align: left;
 }
 
-
-ul { 
-	position: relative;
-	left: 28%;
-	width: 65%;
+ul {
+	margin-left: 9em;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
 
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
+	margin-bottom: 0.15em;
 }
 
 li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
+	margin-left: 0;
+	width: auto;
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+/* -------------------------------------------------- */
+/* Headings */
+/* -------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
+	font-family: Cousine, Verdana, sans-serif;
 }
 
 h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 28%;
+	margin-bottom: 0.25em;
 }
 
-h1+p { 
-	/*subtitle*/
+h1 + p {
 	font-style: italic;
 	font-size: 110%;
 }
@@ -135,39 +155,47 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
-	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 18%;
+	margin-top: 1.8em;
+	margin-bottom: 0.8em;
+	padding-bottom: 0.15em;
+	border-bottom: 1px solid #ddd;
 }
 
+/*
+	Unused in your current HTML,
+	but retained for compatibility.
+*/
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
-	color: #ccc;
-	position: relative;
-	top: 1.6em;
-	text-align: right;
-	width: 18%;
+	line-height: 1.4;
+	color: #777;
+	margin-top: 1em;
+	margin-bottom: 0.3em;
 }
+
+/* -------------------------------------------------- */
+/* Links */
+/* -------------------------------------------------- */
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none;
 }
 
 a:hover {
-	color:#39f
+	color: #39f;
 }
+
+/* -------------------------------------------------- */
+/* Contact block */
+/* -------------------------------------------------- */
 
 #webaddress {
 	margin-top: 1em;
-	position: relative;
-	left: 28%;
-	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
+	margin-bottom: 2em;
+	color: #777;
+	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
 
@@ -175,20 +203,37 @@ a:hover {
 	text-decoration: none;
 }
 
+/* -------------------------------------------------- */
+/* Inline styles */
+/* -------------------------------------------------- */
+
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e;
 }
 
 strong {
 	font-weight: bold;
 }
 
+/* -------------------------------------------------- */
+/* PDF stability */
+/* -------------------------------------------------- */
+
+h2,
+h3,
+p,
+ul,
+li {
+	break-inside: avoid;
+	page-break-inside: avoid;
+}
+
+/* -------------------------------------------------- */
+/* Hidden elements */
+/* -------------------------------------------------- */
+
 #ghbutton {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-

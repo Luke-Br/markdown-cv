@@ -21,7 +21,8 @@ Opportunities at the intersection of computing, biology and translational medici
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__, Prof. Dr. Gunda Koellensperger, Vienna, AT
 
 Thesis - Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data
-  
+
+
 - ▪ Bioinformatics
 - ▪ Machine learning based biomarker identification
 - ▪ Computer vision aided multiplexed image analysis

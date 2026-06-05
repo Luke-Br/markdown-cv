@@ -92,7 +92,7 @@ body {
 
 p {
 	position: relative;
-	padding-left: 9em;
+	padding-left: 12em;
 	margin-bottom: 0.4em;
 }
 
@@ -107,7 +107,7 @@ p code {
 	position: absolute;
 	left: 0;
 	top: 0;
-	width: 8em;
+	width: 11em;
 	text-align: left;
 }
 

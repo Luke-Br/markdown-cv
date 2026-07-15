@@ -242,4 +242,5 @@ li {
     width: 100%;
     float: none;
     clear: both;
+	text-align: justify;
 }

@@ -11,9 +11,9 @@ title: Luke's CV
 </div>
 
 
-## Interested in
-
-Opportunities at the intersection of computing, biology and translational medicine
+<div class="summary">
+Bioinformatician with expertise in AI-enabled analysis of high-dimensional biological data, computer vision, machine learning, and spatial biology. Experienced in developing reproducible computational workflows for multiplexed imaging and translational research, with a strong interest in applying data-driven approaches to biomarker discovery and precision medicine.
+</div>
 
 ## Education
 

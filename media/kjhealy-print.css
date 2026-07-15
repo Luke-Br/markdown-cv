@@ -244,3 +244,7 @@ li {
     clear: both;
 	text-align: justify;
 }
+.header-divider {
+    border-bottom: 1px solid #ddd;
+    margin: 0.75em 0 1.5em 0;
+}

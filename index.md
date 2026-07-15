@@ -10,7 +10,7 @@ title: Luke's CV
 | <a href="https://www.linkedin.com/in/gabriel-braun-84b744171/">LinkedIn</a>
 </div>
 
-##  
+<div class="header-divider"></div>
 
 <div class="summary">
 Bioinformatician with expertise in AI-enabled analysis of high-dimensional biological data, computer vision, machine learning, and spatial biology. Experienced in developing reproducible computational workflows for multiplexed imaging and translational research, with a strong interest in applying data-driven approaches to biomarker discovery and precision medicine.

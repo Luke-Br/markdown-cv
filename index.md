@@ -30,7 +30,7 @@ Git, Docker, Unix
 
 ## Research and Development
 
-`2021 - present (summer 2026)`
+`2021 - 2026)`
 __PhD Researcher, Institute of Analytical Chemistry, University of Vienna__
 
 • Developed and actively maintain [MeXpose](https://github.com/KoellenspergerLab/MeXpose/), an open-source Python/Jupyter notebook-based platform for the analysis of highly multiplexed imaging data, including:
@@ -73,7 +73,7 @@ __Undergraduate Researcher, Department of Exercise Biology, Technical University
   
 ## Education
 
-`2021 - present (late summer 2026)`
+`2021 - present (summer 2026)`
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__
 
 Thesis - Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data  

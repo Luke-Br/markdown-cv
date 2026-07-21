@@ -120,11 +120,11 @@ Supervised by: Prof. Dr. Henning Wackerhage
 
 `Contributing Author Publications`
 
-• Distinct Skin Penetration and Immune Responses to Ionic and Nanoparticulate Cobalt in Allergic Contact Dermatitis, P. Werner, M. Schaier, G. Braun, A. Julander, K. Midander, M. Isaksson, G. Koellensperger, L. Wisgrill, N. Fyhrquist Allergy (2026): 1–16, DOI: 10.1111/all.70422
+• Distinct Skin Penetration and Immune Responses to Ionic and Nanoparticulate Cobalt in Allergic Contact Dermatitis, P. Werner, M. Schaier, __G. Braun__, A. Julander, K. Midander, M. Isaksson, G. Koellensperger, L. Wisgrill, N. Fyhrquist Allergy (2026): 1–16, DOI: 10.1111/all.70422
   
-• Evaluating limits of detection for single-cell elemental bioimaging by LA-ICP-TOFMS, Elisabeth Foels; Gabriel Braun; Claude Molitor; Martin Schaier; David Loibnegger; Lyndsey Hendriks; Gunda Koellensperger, Talanta 2026-08 Journal article; DOI: 10.1016/j.talanta.2026.129671
+• Evaluating limits of detection for single-cell elemental bioimaging by LA-ICP-TOFMS, Elisabeth Foels; __Gabriel Braun__; Claude Molitor; Martin Schaier; David Loibnegger; Lyndsey Hendriks; Gunda Koellensperger, Talanta 2026-08 Journal article; DOI: 10.1016/j.talanta.2026.129671
   
-• Dual-Mode Wheat Germ Agglutinin Labeling – A Versatile Cell Segmentation Strategy for High-Resolution LA-ICP-TOFMS Bioimaging, Claude Molitor; Martin Schaier; David Loibnegger; Gabriel Braun; Michael Gutmann; Walter Berger; Gunda Koellensperger, Analytical Chemistry 2025-09-30 Journal article; DOI: 10.1021/acs.analchem.5c04060
+• Dual-Mode Wheat Germ Agglutinin Labeling – A Versatile Cell Segmentation Strategy for High-Resolution LA-ICP-TOFMS Bioimaging, Claude Molitor; Martin Schaier; David Loibnegger; __Gabriel Braun__; Michael Gutmann; Walter Berger; Gunda Koellensperger, Analytical Chemistry 2025-09-30 Journal article; DOI: 10.1021/acs.analchem.5c04060
   
 
 `Conference & Forum Presentations`

@@ -92,7 +92,7 @@ body {
 
 p {
 	position: relative;
-	padding-left: 20em;
+	padding-left: 16em;
 	margin-bottom: 0.4em;
 }
 
@@ -112,7 +112,7 @@ p code {
 }
 
 ul {
-	margin-left: 20em;
+	margin-left: 16em;
 	margin-bottom: 1em;
 }
 

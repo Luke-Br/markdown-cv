@@ -77,7 +77,7 @@ __Undergraduate Researcher, Department of Exercise Biology, Technical University
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__
 
 Thesis - Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data  
-Supervised by: Prof. Dr. Gunda Koellensperger & Univ.-Prof. DI Dr. Jürgen Zanghellini
+Supervised by: Prof. Dr. Gunda Koellensperger & Prof. DI Dr. Jürgen Zanghellini
 
 `2018 - 2021`
 __M.Sc., Vrije Universiteit Amsterdam__ - Biomolecular Sciences

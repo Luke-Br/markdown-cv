@@ -19,13 +19,13 @@ Bioinformatician with expertise in AI-enabled analysis of high-dimensional biolo
 
 ## Technical Expertise
 
-#### Programming
+### Programming
 Python - NumPy, pandas, SciPy, scikit-learn, PyTorch, Jupyter
 
-#### Image Analysis
+### Image Analysis
 Napari, Fiji/ImageJ, CellProfiler, Cellpose
 
-#### Software & Infrastructure
+### Software & Infrastructure
 Git, Docker, Unix
 
 ## Research and Development
@@ -34,12 +34,11 @@ Git, Docker, Unix
 __PhD Researcher, Institute of Analytical Chemistry, University of Vienna__
 
 • Developed and actively maintain [MeXpose](https://github.com/KoellenspergerLab/MeXpose/), an open-source Python/Jupyter notebook-based platform for the analysis of highly multiplexed imaging data, including:
+   – Modular workflows for image reconstruction, preprocessing, segmentation, feature extraction, quality control (limit-of-detection & quantification), and downstream statistical analysis.
 
-    – Modular workflows for image reconstruction, preprocessing, segmentation, feature extraction, quality control (limit-of-detection & quantification), and downstream statistical analysis.
+   – Implementation of machine learning and computer vision methods for biomarker discovery and spatial data analysis.
 
-    – Implementation of machine learning and computer vision methods for biomarker discovery and spatial data analysis.
-
-    – Interactive and automated analysis modes to support both exploratory research and reproducible high-throughput processing.
+   – Interactive and automated analysis modes to support both exploratory research and reproducible high-throughput processing.
 
 • Published the methodology and released MeXpose as open-source software.
   

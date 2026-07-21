@@ -111,14 +111,14 @@ Supervised by: Prof. Dr. Henning Wackerhage
   
 ## Selected Publications & Conference Contributions
 
-`First Author Publications`
+`First Author`
 
 • MeXpose - A modular imaging pipeline for the quantitative assessment of cellular metal bioaccumulation. __Gabriel Braun__ and Martin Schaier, Paulina Werner, Sarah Theiner, Juergen Zanghellini, Lukas Wisgrill, Nanna Fyhrquist, Gunda Koellensperger; JACS Au, 2024; DOI: 10.1021/jacsau.4c00154
   
 • MeXpose 2.0: A Comprehensive Toolkit for Single Cell Spatial (Metall-)omics - Covering All Steps from Image Reconstruction to Integrative Analysis. __Braun, Gabriel__; Hendriks, Lyndsey; Molitor, Claude; Nguyenová, Hoang Anh ; Foels, Elisabeth; Schaier, Martin; Koellensperger, Gunda; ACS Chemical & Biomedical Imaging, 2026; DOI: 10.1021/cbmi.6c00070
   
 
-`Contributing Author Publications`
+`Contributing Author`
 
 • Distinct Skin Penetration and Immune Responses to Ionic and Nanoparticulate Cobalt in Allergic Contact Dermatitis, P. Werner, M. Schaier, __G. Braun__, A. Julander, K. Midander, M. Isaksson, G. Koellensperger, L. Wisgrill, N. Fyhrquist Allergy (2026): 1–16, DOI: 10.1111/all.70422
   
@@ -127,15 +127,15 @@ Supervised by: Prof. Dr. Henning Wackerhage
 • Dual-Mode Wheat Germ Agglutinin Labeling – A Versatile Cell Segmentation Strategy for High-Resolution LA-ICP-TOFMS Bioimaging, Claude Molitor; Martin Schaier; David Loibnegger; __Gabriel Braun__; Michael Gutmann; Walter Berger; Gunda Koellensperger, Analytical Chemistry 2025-09-30 Journal article; DOI: 10.1021/acs.analchem.5c04060
   
 
-`Conference & Forum Presentations`
+`Conference & Forum Talks`
 
-• Talk: An interactive workflow for single-cell multiplexed image analysis. European Winter Conference on Plasma Spectrochemistry, 2023, Ljublijana, Slovenia
+• Title: An interactive workflow for single-cell multiplexed image analysis. European Winter Conference on Plasma Spectrochemistry, 2023, Ljublijana, Slovenia
   
-• Talk: MeXpose - A Modular Imaging Pipeline for the Quantitative Assessment of Cellular
+• Title: MeXpose - A Modular Imaging Pipeline for the Quantitative Assessment of Cellular
 Metal Bioaccumulation. 9th International Symposium on Metallomics, 2024, London, UK
   
-• Talk: MeXpose - A Modular Imaging Pipeline for the Quantitative Assessment of Cellular
+• Title: MeXpose - A Modular Imaging Pipeline for the Quantitative Assessment of Cellular
 Metal Bioaccumulation. TOFWerk icpTOF User Meeting 2025, Thun, Switzerland (virtual)
   
-• Talk: MeXpose: an interactive workflow for single-cell multiplexed image analysis. ToFCON, 2025, BAM-Adlershof, Germany (virtual)
+• Title: MeXpose: an interactive workflow for single-cell multiplexed image analysis. ToFCON, 2025, BAM-Adlershof, Germany (virtual)
 

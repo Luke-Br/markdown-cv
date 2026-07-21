@@ -91,7 +91,7 @@ Supervised by: Prof. Dr. Edwin v.d. Pol
 `2014 - 2018`
 __B.Sc., Technical University Munich__ - Sport Science  
   
-Thesis - Changes in Muscle Fiber Composition in response to HDAC4 Knockout within Mice
+Thesis - Changes in Muscle Fiber Composition in response to HDAC4 Knockout within Mice  
 Supervised by: Prof. Dr. Henning Wackerhage
   
 

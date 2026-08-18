@@ -73,7 +73,7 @@ __Undergraduate Researcher, Department of Exercise Biology, Technical University
   
 ## Education
 
-`2021 - present (summer 2026)`
+`2021 - 2026`
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__
 
 Thesis - Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data  
@@ -89,7 +89,7 @@ Supervised by: Prof. Dr. Paul Jennings & Dr.Julia Schnappinger
 Supervised by: Prof. Dr. Edwin v.d. Pol
 
 `2014 - 2018`
-__B.Sc., Technical University Munich__ - Sport Science  
+__B.Sc., Technical University Munich__ - Sport Sciences  
   
 Thesis - Changes in Muscle Fiber Composition in response to HDAC4 Knockout within Mice  
 Supervised by: Prof. Dr. Henning Wackerhage

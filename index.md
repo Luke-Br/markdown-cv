@@ -45,7 +45,7 @@ __PhD Researcher, Institute of Analytical Chemistry, University of Vienna, Austr
   
   
 `2025` 
-__International Research Exchange Grant, Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland__
+__International Research Exchange, Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland__
 
 • Conducted a research exchange at the University of Warsaw, supported by the Vienna Doctoral School in Chemistry International Exchange Grant.
   

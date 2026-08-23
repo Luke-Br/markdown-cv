@@ -31,7 +31,7 @@ Git, Docker, Unix
 ## Research and Development
 
 `2021 - 2026`
-__PhD Researcher, Institute of Analytical Chemistry, University of Vienna__
+__PhD Researcher, Institute of Analytical Chemistry, University of Vienna, Austria__
 
 • Developed and actively maintain [MeXpose](https://github.com/KoellenspergerLab/MeXpose/), an open-source Python/Jupyter notebook-based platform for the analysis of highly multiplexed imaging data, including:
 
@@ -43,9 +43,17 @@ __PhD Researcher, Institute of Analytical Chemistry, University of Vienna__
 
 • Published the methodology and released MeXpose as open-source software.
   
+  
+`2025` 
+__International Research Exchange Grant, Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland__
 
+• Conducted a research exchange at the University of Warsaw, supported by the Vienna Doctoral School in Chemistry International Exchange Grant.
+  
+• Project: Discovering metal content-dependent cellular neighberhoods in LA-ICP-TOFMS data using Cellohood
+  
+  
 `02/2020 - 09/2020`
-__Research Intern, Department of Cell Biology and Immunology, Roche Innovation Center Munich__
+__Research Intern, Department of Cell Biology and Immunology, Roche Innovation Center Munich, Germany__
 
 • Designed, developed, and optimised a novel triple co-culture cell model of the intestinal microenvironment in the cotext of inflammatory bowel disease.
 
@@ -55,20 +63,20 @@ __Research Intern, Department of Cell Biology and Immunology, Roche Innovation C
   
 
 `11/2020 - 04/2021`
-__Research Intern, Department of Biomedical Engeneering and Physics, Amsterdam UMC__
+__Research Intern, Department of Biomedical Engeneering and Physics, Amsterdam UMC, Netherlands__
 
 • Developed a Python/Jupyter workflow for unsupervised extracellular vesicle analysis.
 
 • Implemented dimensionality reduction and clustering for extracellular vesicle population identification.
   
-
+  
 `11/2017 - 04/2018`
-__Undergraduate Researcher, Department of Exercise Biology, Technical University of Munich__
+__Undergraduate Researcher, Department of Exercise Biology, Technical University of Munich, Germany__
 
 • Investigated murine skeletal muscle fibre composition following HDAC4 knockout using quantitative histological analysis.
 
 • Performed cryo-sectioning, immunohistochemistry and digital image analysis through manual annotation
-
+  
   
   
 ## Education

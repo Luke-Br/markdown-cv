@@ -109,24 +109,30 @@ Supervised by: Prof. Dr. Henning Wackerhage
 
   
   
-## Selected Publications & Conference Contributions
+## Publications & Conference Contributions
 
 `First Author`
-
-• MeXpose - A modular imaging pipeline for the quantitative assessment of cellular metal bioaccumulation. __Gabriel Braun__ and Martin Schaier, Paulina Werner, Sarah Theiner, Juergen Zanghellini, Lukas Wisgrill, Nanna Fyhrquist, Gunda Koellensperger; JACS Au, 2024; DOI: 10.1021/jacsau.4c00154
   
-• MeXpose 2.0: A Comprehensive Toolkit for Single Cell Spatial (Metall-)omics - Covering All Steps from Image Reconstruction to Integrative Analysis. __Braun, Gabriel__; Hendriks, Lyndsey; Molitor, Claude; Nguyenová, Hoang Anh ; Foels, Elisabeth; Schaier, Martin; Koellensperger, Gunda; ACS Chemical & Biomedical Imaging, 2026; DOI: 10.1021/cbmi.6c00070
+• MeXpose 2.0: A Comprehensive Toolkit for Single-Cell Spatial (Metall-)omics—Covering All Steps from Image Reconstruction to Integrative Analysis. Gabriel Braun, Lyndsey Hendriks, Claude Molitor, Hoang Anh Nguyenová, et al. Chemical & Biomedical Imaging, 2026. DOI: [10.1021/cbmi.6c00070](https://doi.org/10.1021/cbmi.6c00070)
   
-
+• MeXpose—A Modular Imaging Pipeline for the Quantitative Assessment of Cellular Metal Bioaccumulation. Gabriel Braun, Martin Schaier, Paulina Werner, Sarah Theiner, et al. JACS Au, 2024, 4(6), 2197–2210. DOI: [10.1021/jacsau.4c00154](https://doi.org/10.1021/jacsau.4c00154)  
+  
+  
 `Contributing Author`
-
-• Distinct Skin Penetration and Immune Responses to Ionic and Nanoparticulate Cobalt in Allergic Contact Dermatitis, P. Werner, M. Schaier, __G. Braun__, A. Julander, K. Midander, M. Isaksson, G. Koellensperger, L. Wisgrill, N. Fyhrquist Allergy (2026): 1–16, DOI: 10.1111/all.70422
   
-• Evaluating limits of detection for single-cell elemental bioimaging by LA-ICP-TOFMS, Elisabeth Foels; __Gabriel Braun__; Claude Molitor; Martin Schaier; David Loibnegger; Lyndsey Hendriks; Gunda Koellensperger, Talanta 2026-08 Journal article; DOI: 10.1016/j.talanta.2026.129671
+• Evaluating Limits of Detection for Single-Cell Elemental Bioimaging by LA-ICP-TOFMS. Elisabeth Foels, Gabriel Braun, Claude Molitor, Martin Schaier, et al. Talanta, 2026, 129671. DOI: [10.1016/j.talanta.2026.129671](https://doi.org/10.1016/j.talanta.2026.129671)
   
-• Dual-Mode Wheat Germ Agglutinin Labeling – A Versatile Cell Segmentation Strategy for High-Resolution LA-ICP-TOFMS Bioimaging, Claude Molitor; Martin Schaier; David Loibnegger; __Gabriel Braun__; Michael Gutmann; Walter Berger; Gunda Koellensperger, Analytical Chemistry 2025-09-30 Journal article; DOI: 10.1021/acs.analchem.5c04060
+• Distinct Skin Penetration and Immune Responses to Ionic and Nanoparticulate Cobalt in Allergic Contact Dermatitis. Paulina Werner, Martin Schaier, Gabriel Braun, Anneli Julander, et al. Allergy, 2026. DOI: [10.1111/all.70422](https://doi.org/10.1111/all.70422)
   
-
+• Dual-Mode Wheat Germ Agglutinin Labeling—A Versatile Cell Segmentation Strategy for High-Resolution LA-ICP-TOFMS Bioimaging. Claude Molitor, Martin Schaier, David Loibnegger, Gabriel Braun, et al. Analytical Chemistry, 2025, 97(38), 20681. DOI: [10.1021/acs.analchem.5c04060](https://doi.org/10.1021/acs.analchem.5c04060)
+  
+• Evaluation of Allergenic Properties and Uptake of Cobalt Nanoparticles in Human Skin: A Comprehensive Transcriptomic Analysis and Skin Permeation Assessment. Paulina Werner, Martin Schaier, Gabriel Braun, Anneli Julander, et al. Journal of Investigative Dermatology, 2024, 144(12), S289. DOI: [10.1016/j.jid.2024.10.361](https://doi.org/10.1016/j.jid.2024.10.361)
+  
+• Multiparametric Tissue Characterization Utilizing the Cellular Metallome and Immuno-Mass Spectrometry Imaging. Martin Schaier, Sarah Theiner, Dina Baier, Gabriel Braun, et al. JACS Au, 2023, 3(2), 419. DOI: [10.1021/jacsau.2c00571](https://doi.org/10.1021/jacsau.2c00571)
+  
+• The Copper Transporter CTR1 and Cisplatin Accumulation at the Single-Cell Level by LA-ICP-TOFMS. Anna Schoeberl, Michael Gutmann, Sarah Theiner, Mario Corte-Rodríguez, Gabriel Braun, et al. Frontiers in Molecular Biosciences, 2022, 9, 1055356. DOI: [10.3389/fmolb.2022.1055356](https://doi.org/10.3389/fmolb.2022.1055356)
+  
+  
 `Conference & Forum Talks`
 
 • Title: An interactive workflow for single-cell multiplexed image analysis. European Winter Conference on Plasma Spectrochemistry, 2023, Ljublijana, Slovenia

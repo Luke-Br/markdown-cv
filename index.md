@@ -35,19 +35,19 @@ __PhD Researcher, Institute of Analytical Chemistry, University of Vienna, Austr
 
 • Developed and actively maintain [MeXpose](https://github.com/KoellenspergerLab/MeXpose/), an open-source Python/Jupyter notebook-based platform for the analysis of highly multiplexed imaging data, including:
 
-   – Modular workflows for image reconstruction, preprocessing, segmentation, feature extraction, quality control (limit-of-detection & quantification), and downstream statistical analysis.
+   – Modular workflows for image reconstruction, preprocessing, segmentation, feature extraction, quality control (limit-of-detection & quantification), and downstream statistical analysis
 
-   – Implementation of machine learning and computer vision methods for biomarker discovery and spatial data analysis.
+   – Implementation of machine learning and computer vision methods for biomarker discovery and spatial data analysis
 
-   – Interactive and automated analysis modes to support both exploratory research and reproducible high-throughput processing.
+   – Interactive and automated analysis modes to support both exploratory research and reproducible high-throughput processing
 
-• Published the methodology and released MeXpose as open-source software.
+• Published the methodology and released MeXpose as open-source software
   
   
 `2025` 
 __International Research Exchange, Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Poland__
 
-• Conducted a research exchange at the University of Warsaw, supported by the Vienna Doctoral School in Chemistry International Exchange Grant.
+• Conducted a research exchange at the University of Warsaw, supported by the Vienna Doctoral School in Chemistry International Exchange Grant
   
 • Project: Discovering metal content-dependent cellular neighberhoods in LA-ICP-TOFMS data using Cellohood
   
@@ -55,25 +55,23 @@ __International Research Exchange, Faculty of Mathematics, Informatics and Mecha
 `02/2020 - 09/2020`
 __Research Intern, Department of Cell Biology and Immunology, Roche Innovation Center Munich, Germany__
 
-• Designed, developed, and optimised a novel triple co-culture cell model of the intestinal microenvironment in the cotext of inflammatory bowel disease.
+• Designed, developed, and optimised a novel triple co-culture cell model of the intestinal microenvironment in the context of inflammatory bowel disease
 
-• Planned and performed validation experiments using flow cytometry, ELISA, and cytometric bead arrays.
+• Planned and performed validation experiments using flow cytometry, ELISA, and cytometric bead arrays
 
-• Analysed experimental data to validate and iteratively refine the model.
+• Analysed experimental data to validate and iteratively refine the model
   
 
 `11/2020 - 04/2021`
 __Research Intern, Department of Biomedical Engeneering and Physics, Amsterdam UMC, Netherlands__
 
-• Developed a Python/Jupyter workflow for unsupervised extracellular vesicle analysis.
-
-• Implemented dimensionality reduction and clustering for extracellular vesicle population identification.
+• Developed a Python workflow for the analysis of extracellular vesicle populations from flow cytometry data 
   
   
 `11/2017 - 04/2018`
 __Undergraduate Researcher, Department of Exercise Biology, Technical University of Munich, Germany__
 
-• Investigated murine skeletal muscle fibre composition following HDAC4 knockout using quantitative histological analysis.
+• Investigated murine skeletal muscle fibre composition following HDAC4 knockout using quantitative histological analysis
 
 • Performed cryo-sectioning, immunohistochemistry and digital image analysis through manual annotation
   

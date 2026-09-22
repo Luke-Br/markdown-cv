@@ -65,7 +65,7 @@ __Research Intern, Department of Cell Biology and Immunology, Roche Innovation C
 `11/2020 - 04/2021`
 __Research Intern, Department of Biomedical Engeneering and Physics, Amsterdam UMC, Netherlands__
 
-• Developed a Python workflow for the analysis of extracellular vesicle populations from flow cytometry data 
+• Developed a Python workflow for the analysis of extracellular vesicle populations in flow cytometry data 
   
   
 `11/2017 - 04/2018`

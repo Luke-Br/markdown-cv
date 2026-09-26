@@ -81,23 +81,23 @@ __Undergraduate Researcher, Department of Exercise Biology, Technical University
 
 `2021 - 2026`
 __PhD Student, University of Vienna, Institute of Analytical Chemistry__
-
-Thesis - Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data  
+Grade: 1, *summa cum laude*
+Thesis: Development of a Data Analysis Pipeline for Highly Multiplexed (Bio-)Chemical Imaging Data  
 Supervised by: Prof. Dr. Gunda Koellensperger & Prof. DI Dr. Jürgen Zanghellini
 
 `2018 - 2021`
 __M.Sc., Vrije Universiteit Amsterdam__ - Biomolecular Sciences
   
-• Thesis I - Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease  
+• Thesis I: Development of a 3D Cell Culture Model in the Context of the Adaptive Immune Response in Inflammatory Bowel Disease  
 Supervised by: Prof. Dr. Paul Jennings & Dr.Julia Schnappinger
   
-• Thesis II - Development of an Unsupervised Machine Learning Pipeline to Detect Extracellular Vesicle Populations in Flow Cytometry Data  
+• Thesis II: Development of an Unsupervised Machine Learning Pipeline to Detect Extracellular Vesicle Populations in Flow Cytometry Data  
 Supervised by: Prof. Dr. Edwin v.d. Pol
 
 `2014 - 2018`
 __B.Sc., Technical University Munich__ - Sport Sciences  
   
-Thesis - Changes in Muscle Fiber Composition in response to HDAC4 Knockout within Mice  
+Thesis: Changes in Muscle Fiber Composition in response to HDAC4 Knockout within Mice  
 Supervised by: Prof. Dr. Henning Wackerhage
   
 
